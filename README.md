@@ -17,7 +17,7 @@ I'm a passionate embedded developer with experience in:
 
 ## GitHub Statistics 📊
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jeronimoagullo&show_icons=true&theme=radical)
+[![Jeronimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeronimoagullo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeronimoagullo&layout=compact&theme=radical)
 
 ## Skills 🛠️
