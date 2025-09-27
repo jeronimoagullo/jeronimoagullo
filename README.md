@@ -5,7 +5,7 @@
 
 ## 🎓 Certifications
 
-[![Azure Fundamentals Certificate](assets/azure-data-fundamentals-120.png)](https://learn.microsoft.com/api/credentials/share/en-us/JernimoAgulloOcampos-9630/6D4D944CA63F756?sharingId=AF35C2A34022763F)
+[![Azure Fundamentals Certificate](assets/azure-fundamentals-120.png)](https://learn.microsoft.com/api/credentials/share/en-us/JernimoAgulloOcampos-9630/6D4D944CA63F756?sharingId=AF35C2A34022763F)
 [![Zephyr Project Contributor](assets/zephyr_project_contributor_120.png)](https://www.credly.com/badges/acd05aea-2d68-4c2c-9ced-681670edda83/public_url)
 
 ## Embedded Systems Developer 💻🔌
