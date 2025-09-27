@@ -3,6 +3,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeronimo-agullo/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeronimoagullo97@gmail.com)
 
+## 🎓 Certifications
+
+[![Azure Fundamentals Certificate](assets/azure-data-fundamentals-120.png)](https://learn.microsoft.com/api/credentials/share/en-us/JernimoAgulloOcampos-9630/6D4D944CA63F756?sharingId=AF35C2A34022763F)
+[![Zephyr Project Contributor](assets/zephyr_project_contributor_120.png)](https://www.credly.com/badges/acd05aea-2d68-4c2c-9ced-681670edda83/public_url)
 
 ## Embedded Systems Developer 💻🔌
 
@@ -10,10 +14,9 @@ I'm a passionate embedded developer with experience in:
 - Microcontroller programming (STM32, Nordic, ESP32, Arduino)
 - RTOS (FreeRTOS, Zephyr)
 - Low-level communication protocols (I2C, SPI, UART, CAN)
-- Linux administrator
+- Cloud (Azure) and IoT protocols (mqtt, LTE, Coap, etc.)
 - Computer Vision (traditional algorithms, YOLO and other CNNs)
-
-[![Zephyr Contributor](https://img.shields.io/badge/Zephyr-Contributor-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDBDNS4zNyAwIDAgNS4zNyAwIDEyczUuMzcgMTIgMTIgMTIgMTItNS4zNyAxMi0xMlMxOC42MyAwIDEyIDB6Ii8+PC9zdmc+)](https://www.credly.com/badges/acd05aea-2d68-4c2c-9ced-681670edda83/public_url)
+- Linux administrator
 
 ## GitHub Statistics 📊
 
