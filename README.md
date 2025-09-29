@@ -5,8 +5,10 @@
 
 ## 🎓 Certifications
 
-[![Azure Fundamentals Certificate](assets/azure-fundamentals-120.png)](https://learn.microsoft.com/api/credentials/share/en-us/JernimoAgulloOcampos-9630/6D4D944CA63F756?sharingId=AF35C2A34022763F)
 [![Zephyr Project Contributor](assets/zephyr_project_contributor_120.png)](https://www.credly.com/badges/acd05aea-2d68-4c2c-9ced-681670edda83/public_url)
+[![Azure Fundamentals Certificate](assets/azure-fundamentals-120.png)](https://learn.microsoft.com/api/credentials/share/en-us/JernimoAgulloOcampos-9630/6D4D944CA63F756?sharingId=AF35C2A34022763F)
+[![Python PCEP Certificate](assets/python_pcep_120p.png)](https://verify.openedg.org/?id=tkXv.3b4S.7KG0)
+
 
 ## Embedded Systems Developer 💻🔌
 
