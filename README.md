@@ -8,16 +8,18 @@
 [![Zephyr Project Contributor](assets/zephyr_project_contributor_120.png)](https://www.credly.com/badges/acd05aea-2d68-4c2c-9ced-681670edda83/public_url)
 [![Azure Fundamentals Certificate](assets/azure-fundamentals-120.png)](https://learn.microsoft.com/api/credentials/share/en-us/JernimoAgulloOcampos-9630/6D4D944CA63F756?sharingId=AF35C2A34022763F)
 [![Python PCEP Certificate](assets/python_pcep_120p.png)](https://verify.openedg.org/?id=tkXv.3b4S.7KG0)
-
+[![RISC-V course](assets/risc-v_course_lfd210_120p.png)](https://www.credly.com/badges/f4330134-388c-4421-b654-b713bad474ba/public_url)
 
 ## Embedded Systems Developer 💻🔌
 
 I'm a passionate embedded developer with experience in:
 - Microcontroller programming (STM32, Nordic, ESP32, Arduino)
 - RTOS (FreeRTOS, Zephyr)
+- Computer architecture (RISC-V)
 - Low-level communication protocols (I2C, SPI, UART, CAN)
 - Cloud (Azure) and IoT protocols (mqtt, LTE, Coap, etc.)
 - Computer Vision (traditional algorithms, YOLO and other CNNs)
+- Python, C and C++ programming
 - Linux administrator
 
 ## GitHub Statistics 📊
