@@ -9,6 +9,7 @@
 [![Azure Fundamentals Certificate](assets/azure-fundamentals-120.png)](https://learn.microsoft.com/api/credentials/share/en-us/JernimoAgulloOcampos-9630/6D4D944CA63F756?sharingId=AF35C2A34022763F)
 [![Python PCEP Certificate](assets/python_pcep_120p.png)](https://verify.openedg.org/?id=tkXv.3b4S.7KG0)
 [![RISC-V course](assets/risc-v_course_lfd210_120p.png)](https://www.credly.com/badges/f4330134-388c-4421-b654-b713bad474ba/public_url)
+[![RISC-V RVFA](assets/RVFA-risc-v-120p.png)](https://ti-user-certificates.s3.us-east-1.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/ee0cb8a0-09ae-4cad-86e0-95bf30c52c5e-jernimo-jess-agull-ocampos-55d5d328-b5ff-4afd-a720-75ca438306c3-certificate.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAJPREDE4LLNE2GD6Q%2F20261029%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261029T065108Z&X-Amz-Expires=900&X-Amz-Signature=7b2ae1a21a05f51c514919c73d99446ae3d0ffbba1cb23043d228c173baf35b6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 ## Embedded Systems Developer 💻🔌
 
